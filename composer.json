@@ -13,5 +13,7 @@
       "email": "juniorq.dev.git@gmail.com"
     }
   ],
-  "require": {}
+  "require": {
+    "dompdf/dompdf": "^1.0"
+  }
 }
