@@ -1,0 +1,17 @@
+{
+  "name": "php-composer/treinaweb-php-composer",
+  "description": "Estudando sobre composer",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "User\\TreinawebPhpComposer\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "JuniorQ",
+      "email": "juniorq.dev.git@gmail.com"
+    }
+  ],
+  "require": {}
+}
